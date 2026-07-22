@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Laodemeia
-- 👀 I’m interested in  python 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python 
 - 📫 How to reach me  send  a mail on me 
 <!---
 Laodemeia/Laodemeia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
